@@ -1,0 +1,28 @@
+{
+    "chain_name": "artela",
+    "coingecko": "",
+    "api": [
+            "https://testnet-artela-api.genznodes.dev"
+          ],
+    "rpc": [
+            "https://testnet-artela-rpc.genznodes.dev"
+          ],
+    "sdk_version": "v0.47.4",
+    "coin_type": "60",
+    "min_tx_fee": "25000000000",
+    "addr_prefix": "art",
+    "logo": "/logos/artela.jpg",
+    "assets": [{
+        "base": "uart",
+        "symbol": "ART",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/artela.jpg"
+    }],
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "keplr_price_step": {
+      "low": 2000000000,
+      "average": 25000000000,
+      "high": 40000000000
+    }
+}

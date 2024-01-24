@@ -1,0 +1,25 @@
+{
+    "chain_name": "structs",
+    "coingecko": "",
+    "api": [
+        "https://testnet-structs-api.genznodes.dev"
+    ],
+    "rpc": [
+        "https://testnet-structs-rpc.genznodes.dev"
+    ],
+    "snapshot_provider": "",
+    "coin_type": "118",
+    "min_tx_fee": "100",
+    "sdk_version": "v0.47.3",
+    "addr_prefix": "structs",
+    "logo": "/logos/structs.jpg",
+    "assets": [
+        {
+            "base": "alpha",
+            "symbol": "ALPHA",
+            "exponent": "",
+            "coingecko_id": "",
+            "logo": "/logos/structs.jpg"
+        }
+    ]
+}

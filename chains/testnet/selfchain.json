@@ -1,0 +1,19 @@
+{
+    "chain_name": "selfchain",
+    "coingecko": "",
+    "api": [
+        "https://testnet-selfchain-api.genznodes.dev"
+    ],
+    "rpc": ["https://testnet-selfchain-rpc.genznodes.dev"],
+    "sdk_version": "v0.45.7",
+    "coin_type": "118",
+    "min_tx_fee": "200",
+    "addr_prefix": "self",
+    "logo": "/logos/selfchain.jpg",
+    "assets": [{
+        "base": "usefl",
+        "symbol": "SELF",
+        "exponent": "6",
+        "logo": "/logos/selfchain.jpg"
+    }]
+}

@@ -1,0 +1,19 @@
+{
+    "chain_name": "router",
+    "api": ["https://router-api.genznodes.dev"],
+    "rpc": ["https://router-rpc.genznodes.dev"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.3",
+    "coin_type": "60",
+    "min_tx_fee": "5000000000000000",
+    "addr_prefix": "router",
+    "logo": "/logos/router.jpg",
+    "keplr_features": ["ibc-transfer", "ibc-go", "eth-address-gen", "eth-key-sign"],
+    "assets": [{
+        "base": "route",
+        "symbol": "route",
+        "exponent": "21",
+        "coingecko_id": "router",
+        "logo": "/logos/planq.jpg"
+    }]
+}

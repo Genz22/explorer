@@ -1,0 +1,25 @@
+{
+    "chain_name": "coreum",
+    "coingecko": "coreum",
+    "api": [
+        "https://rest.cosmos.directory/coreum",
+        "https://coreum-api.genznodes.dev"
+    ],
+    "rpc": [
+        "https://rpc.cosmos.directory/coreum",
+        "https://coreum-rpc.genznodes.dev"
+    ],
+    "coin_type": "990",
+    "addr_prefix": "core",
+    "min_tx_fee": "2000",
+    "logo": "/logos/coreum.jpg",
+    "assets": [
+        {
+            "base": "ucore",
+            "symbol": "CORE",
+            "exponent": "6",
+            "coingecko_id": "coreum",
+            "logo": "/logos/coreum.jpg"
+        }
+    ]
+}

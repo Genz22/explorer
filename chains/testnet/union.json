@@ -1,0 +1,20 @@
+{
+    "chain_name": "union",
+    "coingecko": "",
+    "api": ["https://testnet-union-api.genznodes.dev"],
+    "rpc": ["https://testnet-union-rpc.genznodes.dev"],
+    "sdk_version": "v0.47.4",
+    "coin_type": 118,
+    "min_tx_fee": "1000",
+    "addr_prefix": "union",
+    "logo": "/logos/union.jpg",
+    "assets": [
+      {
+        "base": "muno",
+        "symbol": "UNO",
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": "/logos/union.jpg"
+      }
+    ]
+}
