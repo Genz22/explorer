@@ -11,7 +11,7 @@
     "addr_prefix": "self",
     "logo": "/logos/selfchain.jpg",
     "assets": [{
-        "base": "usefl",
+        "base": "uself",
         "symbol": "SELF",
         "exponent": "6",
         "logo": "/logos/selfchain.jpg"
