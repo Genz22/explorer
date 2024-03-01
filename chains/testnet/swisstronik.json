@@ -19,9 +19,9 @@
         "symbol": "SWTR",
         "exponent": "18",
         "coingecko_id": "",
-        "logo": "/logos/swisstronik.png"
+        "logo": "/logos/swisstronik.jpg"
       }
     ],
-    "logo": "/logos/swisstronik.png",
+    "logo": "/logos/swisstronik.jpg",
     "sdk_version": "v0.47.5"
   }

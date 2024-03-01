@@ -1,0 +1,26 @@
+{
+    "chain_name": "hedgeblock",
+    "coingecko": "",
+    "api": [
+        "https://lcd-berberis.hedgeblock.io",
+        "https://testnet-hedgeblock-api.genznodes.dev"
+    ],
+    "rpc": [
+        "https://rpc-berberis.hedgeblock.io" ,
+        "https://testnet-hedgeblock-rpc.genznodes.dev"
+    ],
+    "snapshot_provider": "genznodes",
+    "coin_type": "118",
+    "sdk_version": "v0.47.5",
+    "addr_prefix": "hedge",
+    "logo": "/logos/hedgeblock.jpg",
+    "assets": [
+        {
+            "base": "uhedge",
+            "symbol": "HEDGE",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/hedgeblock.jpg"
+        }
+    ]
+}
