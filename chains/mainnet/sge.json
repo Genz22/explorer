@@ -19,7 +19,7 @@
     ],
     "snapshot_provider": "",
     "addr_prefix": "sge",
-    "coin_type": "494",
+    "coin_type": "118",
     "min_tx_fee": "8000",
     "assets": [
       {

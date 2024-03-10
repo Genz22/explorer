@@ -1,0 +1,26 @@
+{
+    "chain_name": "warden",
+    "alias": "warden",
+    "api": [
+      "https://rest.alfama.wardenprotocol.org",
+      "https://testnet-warden-api.genznodes.dev"
+    ],
+    "rpc": [
+      "https://rpc.alfama.wardenprotocol.org",
+      "https://testnet-warden-rpc.genznodes.dev"
+    ],
+    "snapshot_provider": "",
+    "addr_prefix": "warden",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "assets": [
+      {
+        "base": "uward",
+        "symbol": "WARD",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/warden.png"
+      }
+    ],
+    "logo": "/logos/warden.png"
+}
