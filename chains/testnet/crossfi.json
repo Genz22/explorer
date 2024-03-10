@@ -1,0 +1,24 @@
+{
+    "chain_name": "crossfi",
+    "alias": "crossfi",
+    "api": [
+      "https://testnet-crossfi-api.genznodes.dev"
+    ],
+    "rpc": [
+      "https://testnet-crossfi-rpc.genznodes.dev"
+    ],
+    "snapshot_provider": "",
+    "addr_prefix": "mx",
+    "coin_type": "60",
+    "min_tx_fee": "8000",
+    "assets": [
+      {
+        "base": "mpx",
+        "symbol": "PX",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/crossfi.jpg"
+      }
+    ],
+    "logo": "/logos/crossfi.jpg" 
+}
