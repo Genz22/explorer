@@ -36,7 +36,7 @@ const handleLangChange = (lang: string) => {
 };
 </script>
 
-<template>
+<!-- <template>
     <div
         class="dropdown"
         :class="
@@ -65,4 +65,4 @@ const handleLangChange = (lang: string) => {
             </li>
         </ul>
     </div>
-</template>
+</template> -->
