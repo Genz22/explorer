@@ -1,11 +1,11 @@
 {
-    "chain_name": "realio",
+    "chain_name": "realio-testnet",
     "alias": "realio",
     "api": [
-      "https://realio-api.genznodes.dev"
+      "https://testnet-realio-api.genznodes.dev"
     ],
     "rpc": [
-      "https://realio-rpc.genznodes.dev"
+      "https://testnet-realio-rpc.genznodes.dev"
     ],
     "snapshot_provider": "",
     "addr_prefix": "realio",
@@ -28,5 +28,5 @@
       }
     ],
     "logo": "/logos/rio.png",
-    "sdk_version": "0.45.8"
+    "sdk_version": "0.47.12"
   }
