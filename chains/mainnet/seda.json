@@ -1,0 +1,26 @@
+{
+    "chain_name": "seda",
+    "alias": "seda",
+    "api": [
+      "https://rest.cosmos.directory/seda",
+      "https://sge-api.genznodes.dev"
+    ],
+    "rpc": [
+      "https://rpc.cosmos.directory/seda",
+      "https://sge-rpc.genznodes.dev"
+    ],
+    "snapshot_provider": "",
+    "addr_prefix": "seda",
+    "coin_type": "118",
+    "min_tx_fee": "8000",
+    "assets": [
+      {
+        "base": "aseda",
+        "symbol": "SEDA",
+        "exponent": "18",
+        "coingecko_id": "seda-2",
+        "logo": "/logos/seda.jpg"
+      }
+    ],
+    "logo": "/logos/seda.jpg"  
+}

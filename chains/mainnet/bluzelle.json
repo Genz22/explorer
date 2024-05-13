@@ -1,0 +1,26 @@
+{
+    "chain_name": "bluzelle",
+    "alias": "bluzelle",
+    "api": [
+      "https://rest.cosmos.directory/bluzelle",
+      "https://bluzelle-api.genznodes.dev"
+    ],
+    "rpc": [
+      "https://rpc.cosmos.directory/bluzelle",
+      "https://bluzelle-rpc.genznodes.dev"
+    ],
+    "snapshot_provider": "",
+    "addr_prefix": "bluzelle",
+    "coin_type": "483",
+    "min_tx_fee": "8000",
+    "assets": [
+      {
+        "base": "ubnt",
+        "symbol": "BNT",
+        "exponent": "6",
+        "coingecko_id": "bluzelle",
+        "logo": "/logos/bluzelle.jpg"
+      }
+    ],
+    "logo": "/logos/bluzelle.jpg"  
+}

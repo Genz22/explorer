@@ -4,18 +4,14 @@
     "api": [
       "https://rest.cosmos.directory/sge",
       "https://sge-api.lavenderfive.com",
-      "https://sge-api.ramuchi.tech",
-      "https://api-sge.nodeist.net",
       "https://sge-api.polkachu.com",
-      "https://api.sge.nodestake.top"
+      "https://sge-api.genznodes.dev"
     ],
     "rpc": [
       "https://rpc.cosmos.directory/sge",
       "https://sge-rpc.lavenderfive.com",
-      "https://sge-rpc.ramuchi.tech",
-      "https://rpc-sge.nodeist.net",
       "https://sge-rpc.polkachu.com",
-      "https://rpc.sge.nodestake.top"
+      "https://sge-rpc.genznodes.dev"
     ],
     "snapshot_provider": "",
     "addr_prefix": "sge",

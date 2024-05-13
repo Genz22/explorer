@@ -1,0 +1,26 @@
+{
+    "chain_name": "shido",
+    "alias": "shido",
+    "api": [
+        "https://rest.cosmos.directory/shido",
+        "https://shido-api.genznodes.dev"
+    ],
+    "rpc": [
+        "https://rpc.cosmos.directory/sge",
+        "https://shido-rpc.genznodes.dev"
+    ],
+    "snapshot_provider": "",
+    "addr_prefix": "shido",
+    "coin_type": "60",
+    "min_tx_fee": "8000",
+    "assets": [
+        {
+            "base": "shido",
+            "symbol": "SHIDO",
+            "exponent": "18",
+            "coingecko_id": "shido-2",
+            "logo": "/logos/shido.png"
+        }
+    ],
+    "logo": "/logos/shido.png"
+}
