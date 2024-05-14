@@ -1,0 +1,16 @@
+{
+    "chain_name": "initia",
+    "api": ["https://lcd.initiation-1.initia.xyz", "https://testnet-initia-api.genznodes.dev"], 
+    "rpc": ["https://rpc.initiation-1.initia.xyz", "https://testnet-initia-rpc.genznodes.dev"],
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "assets": [{
+        "base": "uinit",
+        "symbol": "INIT",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/initia.jpg"
+    }],
+    "addr_prefix": "initia",
+    "logo": "/logos/initia.jpg"
+}
