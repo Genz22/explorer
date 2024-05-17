@@ -1,0 +1,22 @@
+{
+    "chain_name": "airchains",
+    "api": [
+        "https://testnet-airchains-api.genznodes.dev"
+    ],
+    "rpc": [
+        "https://testnet-airchains-rpc.genznodes.dev"
+    ],
+    "coin_type": "118",
+    "addr_prefix": "air",
+    "min_tx_fee": "500",
+    "logo": "/logos/airchains.jpg",
+    "assets": [
+        {
+            "base": "amf",
+            "symbol": "AMF",
+            "exponent": "6",
+            "coingecko_id": "",
+            "logo": "/logos/airchains.jpg"
+        }
+    ]
+}
