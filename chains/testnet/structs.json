@@ -9,15 +9,15 @@
     ],
     "snapshot_provider": "",
     "coin_type": "118",
-    "min_tx_fee": "100",
-    "sdk_version": "v0.47.3",
+    "min_tx_fee": "0",
+    "sdk_version": "v0.50",
     "addr_prefix": "structs",
     "logo": "/logos/structs.jpg",
     "assets": [
         {
             "base": "alpha",
             "symbol": "ALPHA",
-            "exponent": "",
+            "exponent": "0",
             "coingecko_id": "",
             "logo": "/logos/structs.jpg"
         }
