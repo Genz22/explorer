@@ -1,6 +1,6 @@
 import {
   type RequestRegistry,
-  adapter,
+  adapter
 } from './registry';
 
 export const DEFAULT: RequestRegistry = {
