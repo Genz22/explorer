@@ -13,6 +13,13 @@
     "min_tx_fee": "8000",
     "assets": [
       {
+        "base": "stake",
+        "symbol": "STAKE",
+        "exponent": "18",
+        "coingecko_id": "realio-network",
+        "logo": "/logos/rio.png"
+      },
+      {
         "base": "ario",
         "symbol": "RIO",
         "exponent": "18",
