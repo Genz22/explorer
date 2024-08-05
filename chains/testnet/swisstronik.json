@@ -15,7 +15,7 @@
     "min_tx_fee": "5000",
     "assets": [
       {
-        "base": "uswtr",
+        "base": "aswtr",
         "symbol": "SWTR",
         "exponent": "18",
         "coingecko_id": "",

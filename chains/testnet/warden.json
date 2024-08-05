@@ -3,10 +3,12 @@
     "alias": "warden",
     "api": [
       "https://rest.alfama.wardenprotocol.org",
+      "https://testnet.warden.api.liveraven.net",
       "https://testnet-warden-api.genznodes.dev"
     ],
     "rpc": [
       "https://rpc.alfama.wardenprotocol.org",
+      "https://testnet.warden.rpc.liveraven.net",
       "https://testnet-warden-rpc.genznodes.dev"
     ],
     "snapshot_provider": "",
