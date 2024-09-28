@@ -1,5 +1,5 @@
 {
-    "chain_name": "realio-testnet",
+    "chain_name": "realio",
     "alias": "realio",
     "api": [
       "https://testnet-realio-api.genznodes.dev"
@@ -13,6 +13,13 @@
     "min_tx_fee": "8000",
     "assets": [
       {
+        "base": "stake",
+        "symbol": "STAKE",
+        "exponent": "18",
+        "coingecko_id": "realio-network",
+        "logo": "/logos/rio.png"
+      },
+      {
         "base": "ario",
         "symbol": "RIO",
         "exponent": "18",
@@ -25,6 +32,13 @@
         "exponent": "18",
         "coingecko_id": "",
         "logo": "/logos/rst.jpg"
+      },
+      {
+        "base": "almx",
+        "symbol": "LMX",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": ""
       }
     ],
     "logo": "/logos/rio.png",

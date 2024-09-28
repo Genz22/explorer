@@ -32,6 +32,13 @@
         "exponent": "18",
         "coingecko_id": "",
         "logo": "/logos/rst.jpg"
+      },
+      {
+        "base": "almx",
+        "symbol": "LMX",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": ""
       }
     ],
     "logo": "/logos/rio.png",
