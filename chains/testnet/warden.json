@@ -13,9 +13,9 @@
     "min_tx_fee": "25000000000",
     "assets": [
       {
-        "base": "uward",
+        "base": "award",
         "symbol": "WARD",
-        "exponent": "6",
+        "exponent": "18",
         "coingecko_id": "",
         "logo": "/logos/warden.png"
       }
