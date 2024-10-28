@@ -1,0 +1,18 @@
+{
+    "chain_name": "kima",
+    "coingecko": "", 
+    "api": ["https://api.kima.network"], 
+    "rpc": ["https://rpc.kima.network"],
+    "sdk_version": "",
+    "coin_type": "118",
+    "min_tx_fee": "420",
+    "assets": [{
+        "base": "uKIMA",
+        "symbol": "KIMA",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": ""
+    }],
+    "addr_prefix": "kima",
+    "logo": ""
+}
