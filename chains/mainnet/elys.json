@@ -1,0 +1,24 @@
+{
+    "chain_name": "elys",
+    "registry_name": "elys",
+    "api": [
+        {"provider": "Elys", "address": "https://api.elys.network"},
+        {"provider": "Genznodes", "address": "https://api-elys.genznodes.dev"}
+    ],
+    "rpc": [
+        {"provider": "Elys", "address": "https://rpc.elys.network"}, 
+        {"provider": "Genznodes", "address": "https://rpc-elys.genznodes.dev"}
+    ],
+    "sdk_version": "0.50.9",
+    "coin_type": "118",
+    "min_tx_fee": "800",
+    "addr_prefix": "cosmos",
+    "logo": "/logos/elys.jpg",
+    "assets": [{
+        "base": "uelys",
+        "symbol": "ELYS",
+        "exponent": "6",
+        "coingecko_id": "", 
+        "logo": "/logos/elys.jpg"
+    }]
+}
