@@ -3,11 +3,11 @@
     "registry_name": "elys",
     "api": [
         {"provider": "Elys", "address": "https://api.elys.network"},
-        {"provider": "Genznodes", "address": "https://api-elys.genznodes.dev"}
+        {"provider": "Genznodes", "address": "https://elys-api.genznodes.dev"}
     ],
     "rpc": [
         {"provider": "Elys", "address": "https://rpc.elys.network"}, 
-        {"provider": "Genznodes", "address": "https://rpc-elys.genznodes.dev"}
+        {"provider": "Genznodes", "address": "https://elys-rpc.genznodes.dev"}
     ],
     "sdk_version": "0.50.9",
     "coin_type": "118",
