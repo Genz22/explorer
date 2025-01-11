@@ -1,0 +1,26 @@
+{
+    "chain_name": "pokt",
+    "coingecko": "",
+    "api": [
+        {"provider": "Grove", "address": "https://shannon-testnet-grove-api.beta.poktroll.com"},
+        {"provider": "Genznodes", "address": "https://testnet-pokt-api.genznodes.dev"}
+    ],
+    "rpc": [
+        {"provider": "Grove", "address": "https://shannon-testnet-grove-rpc.beta.poktroll.com"}, 
+        {"provider": "Genznodes", "address": "https://testnet-pokt-rpc.genznodes.dev"}
+    ],
+    "sdk_version": "0.50",
+    "coin_type": 118,
+    "min_tx_fee": "800",
+    "addr_prefix": "pokt",
+    "logo": "/logos/pokt.png",
+    "assets": [
+      {
+        "base": "upokt",
+        "symbol": "POKT",
+        "exponent": 6,
+        "coingecko_id": "",
+        "logo": "/logos/pokt.png"
+      }
+    ]
+}
